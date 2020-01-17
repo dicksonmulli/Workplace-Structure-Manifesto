@@ -1,4 +1,4 @@
-# Workplace-Structure-Manifesto
+# Workplace Structure Manifesto
 #### By Isaiah Dickson
 This manifesto presents recommendations for a sustainable future for companies that still practice traditional work structure.
 
