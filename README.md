@@ -11,7 +11,6 @@ A greater level of communication among workers is required, because every employ
 Effective feedback contributes to employee’s development and potential advancement as well as promoting employee loyalty.
 
 ### Teams should work on projects together.
-In a contemporary organizational structure, the rigid top-down model of the traditional structure is removed in favor of teams that work on projects together. 
 Employees should form stronger bonds, because they must rely on each other's expertise and talent to accomplish their goals. 
 
 ### Take ownership of your work.
