@@ -13,14 +13,15 @@ Effective feedback contributes to employee’s development and potential advance
 Employees should form stronger bonds, because they must rely on each other's expertise and talent to accomplish their goals. 
 
 ### 4. Take ownership of your work.
-As an employee, you should have the freedom to implement your own decisions, make changes and take ownership of your work. 
+As an employee, you should have the freedom to implement your own decisions, make changes and take ownership of your work.
+
 This freedom leads to increased productivity, greater work quality and a significant uptick in employee satisfaction.
 
 ### 5. Hold each other accountable.
 You should hold each other accountable for mistakes or unaccomplished goals, with less or without supervision.
 
-### 6. Teams determine ways to meet these goals.
-Given the requirements, milestones and productivity goals of projects, teams must determine the most efficient way to meet those goals. 
+### 6. Teams should determine ways to meet these goals.
+Given the requirements, milestones and productivity goals of projects, teams should determine the most efficient way to meet those goals. 
 
 ## References
 - Learning in the Global Era: International Perspectives on Globalisation and Education (by Marcelo Suarez-Orozco). [Link](https://books.google.co.ke/books?id=PH2TgkJy4CQC&printsec=frontcover&dq=Learning+in+the+Global+Era:+International+Perspectives+on+Globalization+and+Education&hl=sw&sa=X&ved=0ahUKEwjT9aKjgrDnAhVLTsAKHRZHAfUQ6AEIKjAA#v=onepage&q=teamwork&f=false)
