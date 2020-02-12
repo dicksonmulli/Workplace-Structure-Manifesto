@@ -30,4 +30,4 @@ Given the requirements, milestones and productivity goals of projects, teams sho
 - The Future of Work - Forbes Article. [Link](https://www.forbes.com/sites/bernardmarr/2019/07/15/the-future-of-work-5-important-ways-jobs-will-change-in-the-4th-industrial-revolution/#7042b98f54c7)
 
 #### Support
-Feel free to give [feedback](mailto:dickson.isaiah6@gmail.com) and/or [buy me a coffee](https://www.buymeacoffee.com/oTBJOYk) to support the manifesto maintenance.
+Feel free to give [feedback](mailto:dickson.isaiah6@gmail.com) and/or [buy me a coffee](https://www.buymeacoffee.com/oTBJOYk) to support  the maintenance of this manifesto.
