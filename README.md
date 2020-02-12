@@ -10,7 +10,7 @@ Communicate asynchronously while working. Choose the right channel of communicat
 Give honest feedback to each other so that you can work on your weaknesses as well as your potential. Remember, when a member of your team succeeds, the team succeeds too.
 
 ### 3. Teams should work on projects together.
-Work on projects in a collaborative way and ask for assistance on different areas of expertise that you are not competent at. On top of that, hangout and spend time together and make sure to do more than just work 
+Work on projects in a collaborative way and ask for assistance on different areas of expertise, that you are not competent at. On top of that, hangout and spend time together and make sure to do more than just work 
 
 ### 4. Take ownership of your work.
 Working in a contemporary work environment should give you the freedom to implement your own decisions, make changes and take ownership of your work. 
@@ -30,4 +30,4 @@ Given the requirements, milestones and productivity goals of projects, teams sho
 - The Future of Work - Forbes Article. [Link](https://www.forbes.com/sites/bernardmarr/2019/07/15/the-future-of-work-5-important-ways-jobs-will-change-in-the-4th-industrial-revolution/#7042b98f54c7)
 
 #### Support
-Feel free to give [feedback](dickson.isaiah6@gmail.com) and/or [buy me a coffee](https://www.buymeacoffee.com/oTBJOYk) to support the manifesto maintenance.
+Feel free to give [feedback](mailto:dickson.isaiah6@gmail.com) and/or [buy me a coffee](https://www.buymeacoffee.com/oTBJOYk) to support the manifesto maintenance.
